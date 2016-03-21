@@ -1,0 +1,12 @@
+h1 {
+  color: blue;
+  font-weight: bold;
+  font-size: 5em;
+}
+
+p {
+  font-size: 3em;
+  font-style: italic;
+  border: 1px solid green;
+  
+}
